@@ -61,7 +61,6 @@ Användaren kan även lägga in äldre resor retroaktivt för att bygga en kompl
 * 💵 Kostnad & Budget
 * 👥 Antal personer
 * ✏️ Redigera eller ta bort resor
-* 🔎 Filtrera efter datum, pris, destination och kategori
 
 ### 3.2 💰 Budget & Sparande
 * 🎯 Sätt en budget
@@ -86,7 +85,7 @@ Användaren kan även lägga in äldre resor retroaktivt för att bygga en kompl
 ### 4.1 📥 Välkomstmeny
 * 🔐 Logga in
 * 🆕 Registrera
-* ❓ Glömt lösenord (Planerad funktion)
+* ❓ Glömt lösenord
 
 ### 4.2 👤 När användaren är inloggad
 * ➕ Lägg till resa (även tidigare resor)
